@@ -4,7 +4,7 @@
 TruGlo (aka GLOW/Lumen)
 
 ## One-line pitch
-Live agent session where red-flag notes are proposed for review; a professional can join to review flags, and a person must approve before anything is written onto another human. Friend-join is optional.
+TruGlo is relationship intelligence and self-improvement — not dating. The agent flags possible abuse and precursor patterns (pressure, isolation, money, inconsistency) for a professional to review; if you’re flagged, it can help you improve, and reviewing another person’s patterns works the other way too. Nothing is written onto another human until a person approves. Friend-join is optional.
 
 ## Model
 xAI Grok (`grok-4` / `grok-4.6`) via TrueForge model connector using `XAI_API_KEY`.

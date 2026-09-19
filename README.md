@@ -1,6 +1,6 @@
 # TruGlo (GLOW) — TrueFoundry Agent Harness Hackathon
 
-**Pitch:** An agent proposes red-flag notes (pressure, isolation, money, inconsistency). A professional can join to review them; a person must approve before anything is written onto another human. Friend-join is optional.
+**Pitch:** TruGlo is relationship intelligence and self-improvement — not dating. The agent flags possible abuse and precursor patterns (pressure, isolation, money, inconsistency) for a professional to review; if you’re flagged, it can help you improve, and reviewing another person’s patterns works the other way too. Nothing is written onto another human until a person approves. Friend-join is optional.
 
 ## Observe / Control / Test
 - **Observe:** MCP tool traces for `propose_red_flag`

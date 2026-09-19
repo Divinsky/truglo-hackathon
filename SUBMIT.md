@@ -4,7 +4,8 @@
 **Was:** GLOW / Lumen (working names). Not Break Up/Mend. Not HandoffHelper (separate; optional harness fallback only).
 
 ## One-liner
-TruGlo is relationship intelligence — not dating. In this demo, the agent proposes red-flag notes; a professional (Maya) can join to review them, and someone must approve before anything is written onto another human. Friend-join is optional.
+TruGlo is relationship intelligence and self-improvement — not dating. The agent flags possible abuse and precursor patterns (pressure, isolation, money, inconsistency) for a professional to review; if you’re flagged, it can help you improve, and reviewing another person’s patterns works the other way too. Nothing is written onto another human until a person approves. Friend-join is optional.
+
 
 ## Longer pitch (1–2 sentences)
 Dating apps match on what people say. TruGlo helps people see their patterns first. For the TrueFoundry harness demo we show Observe / Control / Test: the agent calls `propose_red_flag`, pauses for human approval, then accepts or rejects — no narcissism labels, no calling anyone a liar.
