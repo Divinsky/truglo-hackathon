@@ -4,7 +4,7 @@
 **Was:** GLOW / Lumen (working names). Not Break Up/Mend. Not HandoffHelper (separate; optional harness fallback only).
 
 ## One-liner
-TruGlo is relationship intelligence and self-improvement — not dating. The agent flags possible abuse and precursor patterns (pressure, isolation, money, inconsistency) for a professional to review; if you’re flagged, it can help you improve, and reviewing another person’s patterns works the other way too. Nothing is written onto another human until a person approves. Friend-join is optional.
+TruGlo is relationship intelligence and self-improvement that can include dating — swipe and talk to people you’re getting to know, with guardrails. The agent flags possible abuse and precursor patterns (pressure, isolation, money, inconsistency); a professional can join to review; if you’re flagged, it can help you improve, and reviewing another person’s patterns works both ways. Nothing is written onto another human until a person approves. Friend-join is optional.
 
 
 ## Longer pitch (1–2 sentences)
