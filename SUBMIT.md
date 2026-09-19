@@ -4,7 +4,7 @@
 **Was:** GLOW / Lumen (working names). Not Break Up/Mend. Not HandoffHelper (separate; optional harness fallback only).
 
 ## One-liner
-TruGlo is relationship intelligence — not dating. In this demo, a friend joins a live agent session; the agent proposes red-flag notes, and a person must approve before anything is written onto another human.
+TruGlo is relationship intelligence — not dating. In this demo, the agent proposes red-flag notes; a professional (Maya) can join to review them, and someone must approve before anything is written onto another human. Friend-join is optional.
 
 ## Longer pitch (1–2 sentences)
 Dating apps match on what people say. TruGlo helps people see their patterns first. For the TrueFoundry harness demo we show Observe / Control / Test: the agent calls `propose_red_flag`, pauses for human approval, then accepts or rejects — no narcissism labels, no calling anyone a liar.
@@ -14,7 +14,7 @@ From Claude Glow Up Mode (May 2026): reject AI-companion gimmick → behavioral 
 
 ## Demo script (3 min)
 1. Open TrueForge agent **TruGlo** with MCP `trueglow-mcp`.
-2. Join as friend “Maya” — paste chat with a money/pressure line.
+2. Join as professional reviewer “Maya” — paste chat with a money/pressure line.
 3. Agent calls `propose_red_flag({ quote, category, confidence })` — categories: pressure | isolation | money | inconsistency.
 4. **Approval pause** (Control) — human approve/reject.
 5. Show tool trace (Observe). Repeat once (Test).

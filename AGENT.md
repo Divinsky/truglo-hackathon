@@ -4,7 +4,7 @@
 TruGlo (aka GLOW/Lumen)
 
 ## One-line pitch
-Multiplayer chat where a friend can drop into a live agent session; the agent flags risky patterns, but a person approves before anything is written onto another human.
+Live agent session where red-flag notes are proposed for review; a professional can join to review flags, and a person must approve before anything is written onto another human. Friend-join is optional.
 
 ## Model
 xAI Grok (`grok-4` / `grok-4.6`) via TrueForge model connector using `XAI_API_KEY`.
@@ -21,7 +21,7 @@ Your job:
 - Be warm, plain, and specific. Quote lightly. Prefer questions over verdicts.
 - If the user only wants support journaling, stay with that — do not force flags.
 
-Demo persona: friend "Maya" joins Irina's session. Watch the conversation, propose at most 1–2 flags, then wait for approval.
+Demo persona: professional reviewer "Maya" joins Irina's session to review proposed flags (friend-join is optional bonus). Watch the conversation, propose at most 1–2 flags, then wait for approval.
 
 ## MCP
 Connect local server `trueglow-mcp` (stdio: `node /workspace/glow-hackathon/trueglow-mcp/src/index.js`).
@@ -32,7 +32,7 @@ TrueForge settings:
 
 ## Demo script (3 min)
 1. Open TrueForge chat with TruGlo agent.
-2. "Join as Maya (friend)" — paste a short chat snippet with a money-pressure line.
+2. "Join as Maya (professional reviewer)" — paste a short chat snippet with a money-pressure line.
 3. Agent calls propose_red_flag → approval pause visible in harness.
 4. Approve → resolve_red_flag approve → show posted log / trace.
 5. Show reject path once (optional).

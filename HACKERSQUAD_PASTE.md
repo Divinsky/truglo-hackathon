@@ -4,14 +4,14 @@
 TruGlo — approval-gated relationship intelligence agent
 
 ## One-liner / tagline
-TruGlo is relationship intelligence — not dating. A friend joins a live agent session; the agent proposes red-flag notes, and a person must approve before anything is written onto another human.
+TruGlo is relationship intelligence — not dating. The agent proposes red-flag notes; a professional can join to review them, and a person must approve before anything is written onto another human. Friend-join is optional, not the core product.
 
 ## Short description (paste)
 TruGlo helps people see relationship patterns without becoming a dating app or an AI companion. For this Agent Harness hackathon we show Observe / Control / Test on a TruGlo agent: it calls `propose_red_flag` when it notices pressure, isolation, money asks, or inconsistency; TrueForge (or the local demo) pauses for human approval; accept/reject decides whether anything is written into the shared session. We do not diagnose narcissism or call anyone a liar. Built on the Glow Up Mode product thesis (behavioral mirror → readiness → lifecycle modes). Domain TruGlo.app reserved. Disclose: concept/prototypes existed before today; today’s build is the harness-visible approval-gated tool path + demo.
 
 ## Demo script for screen record NOW (no xAI key required)
 1. Open `/workspace/glow-hackathon/demo/index.html` in a browser (or open the file from Finder).
-2. Say aloud: “Maya (friend) joins a shared TruGlo session.”
+2. Say aloud: “Maya (professional reviewer) joins to review proposed flags.”
 3. Point at the chat snippet with the money/pressure line.
 4. Point at the tool trace: `propose_red_flag` → status `pending_approval` (Observe).
 5. Click **Approve** — show posted to session log (Control). Optionally refresh and show **Reject** writes nothing (Test).
